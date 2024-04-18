@@ -10,9 +10,7 @@ import {
 
 const relevantEvents = new Set([
   'product.created',
-  'product.updated',
-  'product.deleted',
-  'price.created',
+sp  'price.created',
   'price.updated',
   'price.deleted',
   'checkout.session.completed',
